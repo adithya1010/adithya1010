@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010" alt="adithya1010" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/adithya-st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya-st?logo=twitter&style=for-the-badge" alt="adithya-st" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adithya_st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Flutter, Dart, DSA**
 
@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adithya-st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithya-st" height="30" width="40" /></a>
+<a href="https://twitter.com/adithya_st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithya_st" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adithya-s-t-886810183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya-s-t-886810183" height="30" width="40" /></a>
-<a href="https://instagram.com/adithya-st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya-st" height="30" width="40" /></a>
+<a href="https://instagram.com/adithya_st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adithya_st" height="30" width="40" /></a>
 <a href="https://medium.com/@adithya1010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adithya1010" height="30" width="40" /></a>
 </p>
 

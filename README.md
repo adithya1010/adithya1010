@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
 
-- ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
+- ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch during my college days!😁**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

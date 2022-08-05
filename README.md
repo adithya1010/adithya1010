@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adithya_st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Flutter, Dart, DSA**
+- 🌱 I’m currently learning **Python, Flutter, Dart, Google Cloud, DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@adithya1010](https://medium.com/@adithya1010)
 

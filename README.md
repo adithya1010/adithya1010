@@ -17,9 +17,7 @@
 
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=9mna0longvf75vjt2s7g6t0md&cover_image=true&theme=default)]]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -2,21 +2,20 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya1010&label=Profile%20views&color=0e75b6&style=flat" alt="adithya1010" /> </p>
-<a href="https://wakatime.com/@6ffdcdd4-d8fc-4219-81e6-80384705f7c2"><img src="https://wakatime.com/badge/user/6ffdcdd4-d8fc-4219-81e6-80384705f7c2.svg" alt="Total time coded since Sep 7 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010" alt="adithya1010" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adithya_st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Flutter, Dart, Google Cloud, DSA**
+- 🌱 I’m currently learning **Python, Flutter, Dart, DSA**
 
 - 📝 I regularly write articles on [https://medium.com/@adithya1010](https://medium.com/@adithya1010)
 
-- 📫 How to reach me **adist1340@gmail.com**
+- 📫 How to reach me **adithya.2018@vitstudent.ac.in**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO](https://1drv.ms/u/s!Am-eVTSjDSr6gpc0CvN9PYPg_ZmgOQ?e=0OnsNB)
+- 📄 Know about my experiences [https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
 
-- ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch during my college days!😁**
+- ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

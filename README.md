@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya1010&label=Profile%20views&color=0e75b6&style=flat" alt="adithya1010" /> </p>
-[![wakatime](https://wakatime.com/badge/user/6ffdcdd4-d8fc-4219-81e6-80384705f7c2.svg)](https://wakatime.com/@6ffdcdd4-d8fc-4219-81e6-80384705f7c2)
+<a href="https://wakatime.com/@6ffdcdd4-d8fc-4219-81e6-80384705f7c2"><img src="https://wakatime.com/badge/user/6ffdcdd4-d8fc-4219-81e6-80384705f7c2.svg" alt="Total time coded since Sep 7 2022" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010" alt="adithya1010" /></a> </p>
 

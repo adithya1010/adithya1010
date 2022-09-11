@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Python, Flutter, Dart, DSA**
 
-- 📝 I regularly write articles on [https://medium.com/@adithya1010](https://medium.com/@adithya1010)
+- 📝 I regularly write articles on [Medium](https://medium.com/@adithya1010)
 
 - 📫 How to reach me **adithya.2018@vitstudent.ac.in**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
+- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
 
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 

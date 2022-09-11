@@ -17,7 +17,7 @@
 - 📄 Know about my experiences [https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
 
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
-
+<img src="[[https://github-readme-linkedin-sable.vercel.app)/[METHOD]?username=[adithya-s-t-886810183]" />
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)<br><br>
 [![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
 <h3 align="left">Connect with me:</h3>

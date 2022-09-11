@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)
+[![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adithya_st" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adithya_st" height="30" width="40" /></a>

@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="adithya-s-t-886810183" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adithya-s-t-886810183?trk=profile-badge">Adithya S.T.</a></div>
+![Alt text](https://in.linkedin.com/in/adithya-s-t-886810183?trk=profile-badge)
               
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)<br><br>

@@ -19,7 +19,6 @@
 
 - ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
 
-![Alt text](https://in.linkedin.com/in/adithya-s-t-886810183?trk=profile-badge)
               
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)<br><br>

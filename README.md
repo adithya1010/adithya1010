@@ -38,9 +38,10 @@
 
 # 📊 GitHub Stats:
 <table border="0px">
- <tr>
-  <td><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
-   <td><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya1010&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
+ <tr border="0px">
+  <td border="0px"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
+  <td border="0px"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
+   
 
  </tr>
  </table>

@@ -28,9 +28,6 @@
  ## 📝 Latest Article
 [![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya_st) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-s-t-886810183) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adithya1010) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/adithya_st) 
@@ -45,3 +42,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adithya1010&show_icons=true&locale=en&theme=github_dark" alt="adithya1010" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya1010&theme=dark" alt="adithya1010" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

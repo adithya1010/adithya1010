@@ -23,6 +23,7 @@
 [![](https://gtce.itsvg.in/api?username=adithya_st)](https://github.com/VishwaGauravIn/github-twitter-card-embed)             
  ## 🎵 Recently Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)<br><br>
+ ## 📝 Latest Article
 [![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
 
 ### ✍️ Random Dev Quote

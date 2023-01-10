@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya1010&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya1010&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adithya1010&show_icons=true&locale=en&theme=github_dark" alt="adithya1010" /></p>
 

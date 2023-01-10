@@ -38,9 +38,9 @@
 
 # 📊 GitHub Stats:
 <table border="0">
- <tr border="0px">
-  <td border="0px"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
-  <td border="0px"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
+ <tr border="0">
+  <td border="0"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
+  <td border="0"><p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=adithya_st&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="adithya1010" /></p></td>
    
 
  </tr>

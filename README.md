@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Adithya S.T.</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software developer from India🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya1010&label=Profile%20views&color=0e75b6&style=flat" alt="adithya1010" />  <a href="https://wakatime.com/@6ffdcdd4-d8fc-4219-81e6-80384705f7c2"><img src="https://wakatime.com/badge/user/6ffdcdd4-d8fc-4219-81e6-80384705f7c2.svg" alt="Total time coded since Sep 7 2022" /></a>
 <a href="https://twitter.com/adithya_st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a> </p>

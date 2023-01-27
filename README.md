@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
 
-- ⚡ Fun fact **I'm into Dank Tamil Memes and was sort of the Meme Creator for my batch😁**
+- ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 
 
 <h2 id="heading">🏆 GitHub Trophies</h2>

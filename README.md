@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adithya.2018@vitstudent.ac.in**
 
-- 📄 Know about my experiences [My Resume](https://1drv.ms/b/s!Am-eVTSjDSr6gpdeN7LIhsZAT8RZAA?e=W5PkGO)
+- 📄 Know about my experiences [My Resume](https://1drv.ms/u/s!Am-eVTSjDSr6gpc0CvN9PYPg_ZmgOQ?e=vofPHQ)
 
 - ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 

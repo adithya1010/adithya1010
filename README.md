@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
+<img src="![image](https://github.com/adithya1010/adithya1010/assets/57008821/91ffb4ce-922f-4695-889e-702132a900b0)" align="center" style="width: 40%" />
 </div>  
 <h1 align="center">Hi 👋, I'm Adithya S.T.</h1>
 <h3 align="center">A passionate Software developer from India 🇮🇳</h3>

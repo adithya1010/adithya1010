@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 
+<img src="https://vercel.com/adithya1010/github-readme-linkedin/CPRJ8BUqJAP8mHkbyByZJApf21xr?username=adithya-s-t-886810183" />
+
 
 <h2 id="heading">🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010&theme=radical" alt="adithya1010" /></a> </p>

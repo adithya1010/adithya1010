@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 
-<img src="https://vercel.com/adithya1010/github-readme-linkedin/CPRJ8BUqJAP8mHkbyByZJApf21xr?username=adithya-s-t-886810183" />
+<img src="https://github-readme-linkedin-sable.vercel.app/?username=adithya-s-t-886810183" />
 
 
 <h2 id="heading">🏆 GitHub Trophies</h2>

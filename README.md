@@ -18,8 +18,7 @@
 
 - ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 
-<img src="https://github-readme-linkedin-adithya1010.vercel.app/?username=adithya-s-t-886810183" />
-
+<img src="https://linkedin-github-readme.onrender.com/api/render/Adithya/Software%20Engineer/Student/M.Tech(Software%20Engineering)/dark/https%3A%2F%2Fmiro.medium.com%2Ffit%2Fc%2F176%2F176%2F1*1UDHjR_48lJBjPyD8xsvlw.jpeg">
 
 <h2 id="heading">🏆 GitHub Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010&theme=radical" alt="adithya1010" /></a> </p>

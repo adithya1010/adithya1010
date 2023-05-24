@@ -19,7 +19,6 @@
 - ⚡ Fun fact **I'm into Tamil Memes and was sort of the Meme Creator for my batch😁**
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="adithya-s-t" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/adithya-s-t?trk=profile-badge">Adithya S.T.</a></div>
               
               
 

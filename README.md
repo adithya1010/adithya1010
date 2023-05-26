@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/g0OT8JBFRc8SY/giphy.gif" align="center" style="width: 130%" >
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>  
 <h1 align="center">Hi 👋, I'm Adithya S.T.</h1>
 <h3 align="center">A passionate Software developer from India 🇮🇳</h3>

@@ -26,9 +26,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithya1010&theme=radical" alt="adithya1010" /></a> </p>
 
 
-
- ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=adithya_st)](https://github.com/VishwaGauravIn/github-twitter-card-embed)             
+         
  ## 🎵 Recently Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)
  ## 📝 Latest Article

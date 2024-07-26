@@ -29,6 +29,7 @@
          
  ## 🎵 Recently Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)
+
  ## 📝 Latest Article
 [![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
 

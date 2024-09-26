@@ -8,7 +8,7 @@
 <a href="https://twitter.com/adithya_st" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python, Oracle Cloud Infrastructure and Google Cloud**
+- 🌱 I’m currently learning **Python, JavaScript, Oracle Cloud Infrastructure and Google Cloud**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adithya1010)
 

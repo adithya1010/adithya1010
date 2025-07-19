@@ -8,7 +8,6 @@
 <a href="https://twitter.com/adithya_st_1" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st?logo=twitter&style=for-the-badge" alt="adithya_st" /></a>  </p> 
 
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/adithya1010)](https://peerlist.io/adithya1010)
 
 - 🌱 I’m currently learning **Python, JavaScript, Oracle Cloud Infrastructure, Google Cloud and Github Fundamentals**
 

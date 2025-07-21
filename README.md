@@ -14,13 +14,6 @@
 
 
 
-
-
-
-
-[![Peerlist](https://github-readme-badge.peerlist.io/api/adithya1010?style=social)](https://peerlist.io/adithya1010)
-
-
 - 🌱 I’m currently learning **Python, JavaScript, Oracle Cloud Infrastructure, Google Cloud and Github Fundamentals**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@adithya1010)

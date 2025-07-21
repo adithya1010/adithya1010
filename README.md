@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithya1010&label=Profile%20views&color=0e75b6&style=flat" alt="adithya1010" /> <a href="https://wakatime.com/@6ffdcdd4-d8fc-4219-81e6-80384705f7c2"><img src="https://wakatime.com/badge/user/6ffdcdd4-d8fc-4219-81e6-80384705f7c2.svg" alt="Total time coded since Sep 7 2022" /></a> <a href="https://twitter.com/adithya_st_1" target="blank"><img src="https://img.shields.io/twitter/follow/adithya_st_1?logo=twitter&style=for-the-badge" alt="adithya_st_1" /></a>  </p> 
 
 
-
+[![Peerlist](https://github-readme-badge.peerlist.io/api/adithya1010)](https://peerlist.io/adithya1010)
 
 - 🌱 I’m currently learning **Python, JavaScript, Oracle Cloud Infrastructure, Google Cloud and Github Fundamentals**
 

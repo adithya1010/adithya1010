@@ -40,8 +40,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)
 
  ## 📝 Latest Article
-[![Adithya S.T. Medium](https://github-readme-medium.vercel.app/?username=adithya1010)](https://medium.com/@adithya1010)
-
+[![Example](https://medium-rss-github.robiningelbrecht.be/@ingelbrechtrobin/0,1,2,3,4/layout:two-col)](https://medium.com/@adithya1010)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adithya_st) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-s-t-886810183) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@adithya1010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adithya_st_1) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adithya#2100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adist1340@gmail.com) 

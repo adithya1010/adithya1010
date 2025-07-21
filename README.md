@@ -40,7 +40,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9mna0longvf75vjt2s7g6t0md)
 
  ## 📝 Latest Article
- <a target="_blank" href="https://medium.com/@adithya1010/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adithya1010/0" alt="Recent Article 0"> 
+[![Example](https://medium.com/@adithya1010/0/)](https://medium-rss-github.vercel.app/@adithya1010/0/link)
 
 
 ## 🌐 Socials

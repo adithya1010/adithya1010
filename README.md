@@ -53,8 +53,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=adithya1010&show_icons=true&locale=en&theme=github_dark" alt="adithya1010" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithya1010&theme=dark" alt="adithya1010" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adithya1010)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adithya1010&limit=5&theme=dark&combine_all_yearly_contributions=true)
